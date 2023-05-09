@@ -1,0 +1,185 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+
+   body {
+     background-color: #416BBF;
+  }
+
+  a { 
+    text-decoration-line: none;
+    color: inherit; 
+ 
+    } 
+
+  .em_cima {
+    box-sizing: border-box;
+    justify-content: center;
+    padding: 20px;
+    height: 10px;
+    width: 60%;
+    background-color:white;
+    margin: auto;
+    text-align: center;
+    font-family: Georgia (serif);
+    box-shadow: 0.3px 0.1px 5px #000000;
+
+  }
+ 
+  .text{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    width: 70%;
+    padding: auto;
+    margin: auto;
+    box-shadow: 0.3px 0.1px 5px #000000;
+    
+  }
+
+  .img_logo{
+    
+    padding: 5px;
+   
+    }
+
+  .bloco-text2{
+    text-align: center;
+    padding: 5px;
+    width: 70%;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    box-shadow: 0.3px 0.1px 5px #000000;
+  }
+
+  .titulo-sol{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    width: 15%;
+    padding: auto;
+    margin: auto;
+    box-shadow: 0.3px 0.1px 5px #000000;
+  }
+  .sol-text{
+    text-align: center;
+    width: 40%;
+    height: 70px;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    box-shadow: 0.3px 0.1px 5px #000000;
+  }
+
+  .Sistemas-Residenciais{
+    margin-top: 10px;
+    padding: auto;
+  }
+
+  .sol-text2{
+    text-align: center;
+    width: 420px;
+    height: 40px;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    box-shadow: 0.3px 0.1px 5px #000000;
+  }
+  .img-text2{
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .Fachadas{
+    text-align: center;
+    width: 420px;
+    height: 40px;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    box-shadow: 0.3px 0.1px 5px #000000;
+  }
+  .img-fachadas{
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .titulo-Cont{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    width: 50%;
+    padding: auto;
+    margin: auto;
+    box-shadow: 0.3px 0.1px 5px #000000;
+  }
+
+ .maps{
+  text-align: center;
+ }
+
+ .contato{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    width: 20%;
+    padding: auto;
+    margin: auto;
+    box-shadow: 0.3px 0.1px 5px #000000;
+ }
+ .itens-contato{
+  text-align: center;
+  font-size: x-large;
+  font-family: Times New Roman (serif);
+  background-color: white;
+  width: 50%;
+  padding: auto;
+  margin: auto;
+  box-shadow: 0.3px 0.1px 5px #000000;
+ }
+  .clientes-text{
+    text-align: center;
+    font-size: x-large;
+    font-family: Times New Roman (serif);
+    background-color: white;
+    width: 20%;
+    padding: auto;
+    margin: auto;
+    box-shadow: 0.3px 0.1px 5px #000000;
+
+  }
+   .parceiros-text{
+  text-align: center;
+  font-size: x-large;
+  font-family: Times New Roman (serif);
+  background-color: white;
+  width: 20%;
+  padding: auto;
+  margin: auto;
+  box-shadow: 0.3px 0.1px 5px #000000;
+ }
+
+ .titulo_Projetos{
+  text-align: center;
+  font-size: x-large;
+  font-family: Times New Roman (serif);
+  background-color: white;
+  width: 40%;
+  padding: auto;
+  margin: auto;
+  box-shadow: 0.3px 0.1px 5px #000000;
+ }
+
+ .projetos_conteudo{
+  text-align: center;
+  font-size: x-large;
+  font-family: Times New Roman (serif);
+  background-color: white;
+  width: 60%;
+  padding: auto;
+  margin: auto;
+  box-shadow: 0.3px 0.1px 5px #000000;
+ }
